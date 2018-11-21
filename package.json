@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/Duckie98/to_do_list/issues"
   },
-  "homepage": "https://github.com/Duckie98/to_do_list#readme",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
