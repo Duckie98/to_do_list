@@ -6,7 +6,7 @@
   "homepage": "https://Duckie98.github.io/to_do_list",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ."
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
